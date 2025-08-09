@@ -60,16 +60,16 @@ hospital-system/
 ## 🛠 Tech Stack
 
 | Layer           | Technology                    |
-|----------------|-------------------------------|
-| Language        | Go                            |
-| Communication   | gRPC, Protocol Buffers        |
-| Messaging       | Kafka                         |
-| DB              | PostgreSQL                    |
-| Auth            | JWT                           |
-| Gateway         | API Gateway with gRPC Proxy   |
-| Frontend        | React.js                      |
-| Deployment      | Kubernetes                    |
-| CI/CD           | GitHub Actions (planned)      |
+|----------------|----------------------------------------|
+| Language        | Go                                    |
+| Communication   | gRPC, Protocol Buffers                |
+| Messaging       | Kafka                                 |
+| DB              | PostgreSQL                            |
+| Auth            | JWT                                   |
+| Gateway         | API Gateway with gRPC Proxy           |
+| Frontend        | React.js                              |
+| Deployment      | Kubernetes                            |
+| CI/CD           | GitHub Actions (planned)/jenkins      |
 
 ---
 
